@@ -1,0 +1,6 @@
+storage:
+# Macbook  orders: "/Users/gweltazniquel/Documents/Commandes Amicale laique"
+  orders: "/home/gweltaz/fileStorage/Commandes Amicale laique" # VPS OVH
+
+server:
+  port: 8181
